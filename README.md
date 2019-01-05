@@ -22,4 +22,4 @@
     getch();
     }
    # Hasil
-   ![img}(https://raw.githubusercontent.com/AminPriadi/Contoh-By-Value-4/master/6.png)
+   ![img](https://raw.githubusercontent.com/AminPriadi/Contoh-By-Value-4/master/6.png)
